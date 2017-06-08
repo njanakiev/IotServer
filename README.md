@@ -20,7 +20,7 @@ The following Node packages are used
 - [mongodb][mongodb-driver]
 - [monk][monk]. 
 
-## Install
+## Installing
 
 In order to install the Node packages simpy run
 ```
