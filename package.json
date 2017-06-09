@@ -1,10 +1,15 @@
 {
-  "name": "IoTServer",
+  "name": "IotServer",
   "version": "1.0.0",
-  "description": "mongodb UDP app",
+  "description": "Data analysis and data visualization of mobile sensor data",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/njanakiev/IotServer"
   },
   "author": "Nikolai Janakiev",
   "license": "MIT",
